@@ -88,7 +88,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yasser-Nautilus/Yasser-Nautilus/snake-output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Yasser-Nautilus/Yasser-Nautilus/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
