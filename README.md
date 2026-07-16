@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br><br>🔭 I'm currently working on<br>Building a startup with 2 friends, testing ideas through hackathons — most recently Forward AI (8th place, Egypt Hackathon 4th Edition)<br><br> I'm looking to collaborate on<br>Hackathon projects, startup ideas, and backend/full-stack apps<br><br>🤝 I'm looking for help with<br>Startup validation, the business side of tech products, and finding the right co-founders/mentors<br><br>🌱 I'm currently learning<br>JavaScript and Node.js (backend focus)<br><br>💬 Ask me about<br>Competitive programming, backend development, HR in tech communities, or surviving Egyptian hackathons <br><br>⚡ Fun fact<br>Ranked 8th out of 122 teams (610+ participants) at Egypt's largest hackathon — while still a 3rd-year student!</p>
+<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br><br>🔭 I'm currently working on<br>Building a startup with 2 friends
+  
+testing ideas through hackathons — most recently Forward AI (8th place, Egypt Hackathon 4th Edition)<br><br> I'm looking to collaborate on<br>Hackathon projects, startup ideas, and backend/full-stack apps<br><br>🤝 I'm looking for help with<br>Startup validation, the business side of tech products, and finding the right co-founders/mentors<br><br>🌱 I'm currently learning<br>JavaScript and Node.js (backend focus)<br><br>💬 Ask me about<br>Competitive programming, backend development, HR in tech communities, or surviving Egyptian hackathons <br><br>⚡ Fun fact<br>Ranked 8th out of 122 teams (610+ participants) at Egypt's largest hackathon — while still a 3rd-year student!</p>
 
 ###
 
