@@ -1,66 +1,62 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Yasser Belal — Product Engineer" />
+<img src="./assets/banner.svg" width="100%" alt="Yasser Belal — NAUTILUS_OS" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=2500&pause=800&color=00F5FF&background=000000&center=true&vCenter=true&width=700&lines=%3E+whoami;Yasser+Belal+%E2%80%94+Product+Engineer;%3E+status+--current;Head+of+Engineering+%40+early-stage+startup+%5Bstealth%5D;%3E+building;end-to-end+products+%E2%80%94+backend+%C2%B7+security+%C2%B7+AI)](https://git.io/typing-svg)
+[![Boot Sequence](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=16&duration=1800&pause=600&color=00F5FF&background=000000&center=true&vCenter=true&width=800&lines=BOOT_SEQUENCE%3A+NAUTILUS_OS+v2.5.0;%3E+mounting+filesystems...+OK;%3E+starting+network+interfaces...+OK;%3E+authenticating+user%3A+yasser_belal;%3E+access+granted;WELCOME+TO+NAUTILUS_OS)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-### `$ cat about.md`
+### `$ neofetch` — System Information
 
 ```
-🧠  currently building something in stealth — full-stack, security-first, moving fast
-🔧  own the "make it actually work in production" part: architecture, DevOps, deployment, testing
-🛡️  going deep on security — network fundamentals, ethical hacking, now securing AI systems
-       (prompt injection, guardrails, sandboxing, adversarial robustness)
-🏆  ranked 8th / 122 teams at Egypt's largest hackathon (Forward AI) — 3rd-year student at the time
-🌱  path: competitive programming (Codeforces) → cybersecurity → backend (Node.js)
-💬  ask me about: system architecture, securing applications, or surviving Egyptian hackathons
+     ___________         NAUTILUS_OS@yasser
+    |  ._____.  |        ------------------
+    |  |     |  |        OS: Nautilus_OS v2.5 [stealth-build]
+    |  |     |  |        Host: Zagazig University — Faculty of Computers & Informatics
+    |  |_____|  |        Kernel: Product-Engineering-Core 3.1
+    |___________|        Uptime: 3rd year, still compiling
+     \_________/         Role: Head of Engineering @ early-stage startup [classified]
+                          Shell: node + bash, security-first mindset
+                          Languages: JavaScript, Python, C++, PHP
+                          Focus: backend · DevOps · deployment · testing
+                          Security: network fundamentals → ethical hacking → AI system defense
+                          Achievement: #8/122 — Egypt Hackathon 4th Edition (Forward AI)
 ```
 
 <br>
 
-### `$ ls stack/`
+### `$ lsmod` — Loaded Modules
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F5FF)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00F5FF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00F5FF)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00F5FF)
+<img src="https://skillicons.dev/icons?i=js,nodejs,py,cpp,php,mysql,sqlite,supabase,vercel&theme=dark" alt="stack modules" />
+
 <br/>
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F5FF)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00F5FF)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00F5FF)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF)
 
-</div>
-
-### `$ ls tools/`
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F5FF)
-![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00F5FF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F5FF)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF)
-![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF)
-<br/>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00F5FF)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00F5FF)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00F5FF)
-![HackTheBox](https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00F5FF)
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,ubuntu,notion&theme=dark" alt="tool modules" />
 
 </div>
 
 <br>
 
-### `$ cat security_focus.md`
+### `$ ps aux` — Active Processes
+
+```
+PID   PROCESS                          STATUS
+001   backend_architecture.service     [RUNNING]
+002   security_hardening.service       [RUNNING]
+003   stealth_startup.service          [RUNNING]   details: classified
+004   ai_defense_research.service      [RUNNING]
+005   hackathon_pipeline.service       [IDLE]
+```
+
+<br>
+
+### `$ tail -f /var/log/security.log`
 
 ```
 > not just prompt injection — the full defense picture:
@@ -74,7 +70,7 @@
 
 <br>
 
-### `$ ./connect.sh`
+### `$ netstat --nodes` — Network Nodes
 
 <div align="center">
 
@@ -91,9 +87,22 @@
 
 <br>
 
+### `$ diagnostics --run` — System Diagnostics
+
 <div align="center">
 
-![snake gif](https://github.com/Yasser-Nautilus/Yasser-Nautilus/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=Yasser-Nautilus&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F5FF&text_color=00F5FF&icon_color=00F5FF&ring_color=00F5FF" alt="system diagnostics" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Yasser-Nautilus&theme=transparent&hide_border=true&background=00000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideNums=00F5FF&currStreakNum=FFFFFF&sideLabels=00F5FF&dates=00F5FF88" alt="commit streak" height="165"/>
+
+</div>
+
+<br>
+
+### `$ watch -n1 network_activity` — Network Activity Monitor
+
+<div align="center">
+
+![network activity](https://github.com/Yasser-Nautilus/Yasser-Nautilus/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -108,5 +117,11 @@
 </div>
 
 <br>
+
+<div align="center">
+
+<sub>SESSION ACTIVE — CONNECTION SECURE — NAUTILUS_OS v2.5</sub>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=0&color=0:000000,100:00F5FF"/>
