@@ -1,0 +1,66 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.2" fill="#00F5FF" opacity="0.05"/>
+    </pattern>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00F5FF" stroke-width="0.4" opacity="0.12"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1000" height="260" fill="#000000"/>
+  <rect width="1000" height="260" fill="url(#grid)"/>
+  <rect width="1000" height="260" fill="url(#scanlines)"/>
+
+  <!-- outer frame -->
+  <rect x="18" y="18" width="964" height="224" fill="none" stroke="#00F5FF" stroke-width="1" opacity="0.55"/>
+
+  <!-- corner crosshairs -->
+  <g stroke="#00F5FF" stroke-width="1.4" opacity="0.85">
+    <line x1="18" y1="6" x2="18" y2="30"/>
+    <line x1="6" y1="18" x2="30" y2="18"/>
+
+    <line x1="982" y1="6" x2="982" y2="30"/>
+    <line x1="970" y1="18" x2="994" y2="18"/>
+
+    <line x1="18" y1="230" x2="18" y2="254"/>
+    <line x1="6" y1="242" x2="30" y2="242"/>
+
+    <line x1="982" y1="230" x2="982" y2="254"/>
+    <line x1="970" y1="242" x2="994" y2="242"/>
+  </g>
+
+  <!-- top labels -->
+  <text x="34" y="42" font-family="Courier New, monospace" font-size="12" fill="#00F5FF" opacity="0.75" letter-spacing="2">SYS://ONLINE</text>
+  <text x="966" y="42" font-family="Courier New, monospace" font-size="12" fill="#00F5FF" opacity="0.75" text-anchor="end" letter-spacing="2">UID:0xYB_ENG</text>
+
+  <!-- main title -->
+  <text x="500" y="128" font-family="Courier New, monospace" font-size="46" font-weight="bold" fill="#00F5FF" text-anchor="middle" letter-spacing="6" filter="url(#glow)">YASSER BELAL</text>
+
+  <!-- subtitle -->
+  <text x="500" y="164" font-family="Courier New, monospace" font-size="14" fill="#00F5FF" text-anchor="middle" letter-spacing="1.5" filter="url(#glowSoft)">SOFTWARE ENGINEER | BACKEND FOCUS | CYBERSECURITY ENTHUSIAST</text>
+
+  <!-- bottom status line -->
+  <text x="500" y="204" font-family="Courier New, monospace" font-size="12" fill="#00F5FF" text-anchor="middle" opacity="0.7" letter-spacing="1">backend · security · full-stack · shipping in the dark</text>
+
+  <!-- decorative side ticks -->
+  <g stroke="#00F5FF" stroke-width="1" opacity="0.4">
+    <line x1="60" y1="128" x2="90" y2="128"/>
+    <line x1="910" y1="128" x2="940" y2="128"/>
+  </g>
+</svg>

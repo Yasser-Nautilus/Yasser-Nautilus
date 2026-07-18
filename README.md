@@ -1,109 +1,112 @@
-<h1 align="center">Hi Gelexy 🌌!</h1>
+<div align="center">
 
-###
+<img src="./assets/banner.svg" width="100%" alt="Yasser Belal — Product Engineer" />
 
-<h2 align="center">I'm Yasser Belal</h2>
+<br/>
 
-###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=20&duration=2500&pause=800&color=00F5FF&background=000000&center=true&vCenter=true&width=700&lines=%3E+whoami;Yasser+Belal+%E2%80%94+Product+Engineer;%3E+status+--current;Head+of+Engineering+%40+early-stage+startup+%5Bstealth%5D;%3E+building;end-to-end+products+%E2%80%94+backend+%C2%B7+security+%C2%B7+AI)](https://git.io/typing-svg)
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🎓 IT Student @ Faculty of Computers and Informatics, Zagazig University<br><br>🔭 I'm currently working on<br>Building a startup with 2 friends
-  
-testing ideas through hackathons — most recently Forward AI (8th place, Egypt Hackathon 4th Edition)<br><br> I'm looking to collaborate on<br>Hackathon projects, startup ideas, and backend/full-stack apps<br><br>🤝 I'm looking for help with<br>Startup validation, the business side of tech products, and finding the right co-founders/mentors<br><br>🌱 I'm currently learning<br>JavaScript and Node.js (backend focus)<br><br>💬 Ask me about<br>Competitive programming, backend development, HR in tech communities, or surviving Egyptian hackathons <br><br>⚡ Fun fact<br>Ranked 8th out of 122 teams (610+ participants) at Egypt's largest hackathon — while still a 3rd-year student!</p>
-
-###
-
-<h2 align="left">I Code With</h2>
-
-###
-
-<div align="left">
-  <img src="https://unpkg.com/devicon@2.15.1/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/devicon@2.15.1/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/devicon@2.15.1/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/devicon@2.15.1/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
 </div>
 
-###
+<br>
 
-<h2 align="left">I use</h2>
+### `$ cat about.md`
 
-###
+```
+🧠  currently building something in stealth — full-stack, security-first, moving fast
+🔧  own the "make it actually work in production" part: architecture, DevOps, deployment, testing
+🛡️  going deep on security — network fundamentals, ethical hacking, now securing AI systems
+       (prompt injection, guardrails, sandboxing, adversarial robustness)
+🏆  ranked 8th / 122 teams at Egypt's largest hackathon (Forward AI) — 3rd-year student at the time
+🌱  path: competitive programming (Codeforces) → cybersecurity → backend (Node.js)
+💬  ask me about: system architecture, securing applications, or surviving Egyptian hackathons
+```
 
-<div align="left">
-  <img src="https://unpkg.com/devicon@2.15.1/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/devicon@2.15.1/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/devicon@2.15.1/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/devicon@2.15.1/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://unpkg.com/devicon@2.15.1/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo"  />
+<br>
+
+### `$ ls stack/`
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00F5FF)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00F5FF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00F5FF)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00F5FF)
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00F5FF)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00F5FF)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00F5FF)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF)
+
 </div>
 
-###
+### `$ ls tools/`
 
-<h2 align="left">Social Media</h2>
+<div align="center">
 
-###
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00F5FF)
+![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00F5FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F5FF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF)
+![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF)
+<br/>
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00F5FF)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00F5FF)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00F5FF)
+![HackTheBox](https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00F5FF)
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/yasser-belal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="42" alt="linkedin logo"  />
-  </a>
-  <a href="https://app.hackthebox.com/profile/Yasser-PoltX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="65" height="42" alt="hackerrank logo"  />
-  </a>
-  <a href="https://t.me/Yasser_PoltX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="65" height="42" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/yasser___belal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="42" alt="instagram logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/Yasser.PoltX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="65" height="42" alt="tryhackme logo"  />
-  </a>
-  <a href="https://x.com/Yasser_PoltX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="42" alt="twitter logo"  />
-  </a>
-  <a href="yasserbelal2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="42" alt="gmail logo"  />
-  </a>
 </div>
 
-###
+<br>
+
+### `$ cat security_focus.md`
+
+```
+> not just prompt injection — the full defense picture:
+
+  • prompt guardrails
+  • output filtering + moderation
+  • sandboxing + tool isolation
+  • constitutional AI
+  • adversarial training
+```
+
+<br>
+
+### `$ ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/yasser-belal/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/Yasser-PoltX)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF)](https://codeforces.com/profile/Yaser_PoltX)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F5FF)](https://t.me/Yasser_PoltX)
+<br/>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00F5FF)](https://tryhackme.com/p/Yasser.PoltX)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00F5FF)](https://x.com/Yasser_PoltX)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:yasserbelal2005@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
 
 ![snake gif](https://github.com/Yasser-Nautilus/Yasser-Nautilus/blob/output/github-contribution-grid-snake-dark.svg)
 
-###
+</div>
+
+<br>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31dawh7ffdmt7y5d6oww4qzbfghe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dawh7ffdmt7y5d6oww4qzbfghe&count=5" alt="Spotify recently played"  />
-  </a>
+
+<a href="https://open.spotify.com/user/31dawh7ffdmt7y5d6oww4qzbfghe">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dawh7ffdmt7y5d6oww4qzbfghe&count=5" alt="Spotify recently played" />
+</a>
+
 </div>
 
-###
+<br>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=158f"  />
-</div>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=0&color=0:000000,100:00F5FF"/>
