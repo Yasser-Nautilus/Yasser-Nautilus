@@ -79,7 +79,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/yasser-belal/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/Yasser-PoltX)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/Yasser-Nautilus)
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF)](https://codeforces.com/profile/Yaser_PoltX)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F5FF)](https://t.me/Yasser_PoltX)
 <br/>
